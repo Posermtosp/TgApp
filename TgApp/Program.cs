@@ -12,7 +12,7 @@ namespace TgApp
         [STAThread]
         static void Main()
         {
-          
+                      
             try
             {
                 WindsorUtil.Register();
